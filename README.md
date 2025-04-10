@@ -41,6 +41,6 @@ Covers the complete workflow:
 Demonstrates behavior when all WI3 work items have already been processed:
 - System login
 - No items found message handled gracefully
-- Email summary not sent, but process exits cleanly with logs
+- Email summary sent notifying that there is no item to be process, but process exits cleanly with logs
 
 ## 📄 Documentation
