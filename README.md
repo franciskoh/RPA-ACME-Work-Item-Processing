@@ -1,1 +1,46 @@
-# RPA-ACME-Work-Item-Processing
+# ACME RPA Case Study – Invoice Automation with UiPath
+
+This project showcases an end-to-end Robotic Process Automation (RPA) solution built using UiPath for the ACME Test System.
+
+## 🛠 Features
+- Logs into the ACME System 1 application using provided credentials
+- Extracts all open WI3-type work items
+- Retrieves and downloads corresponding PDF invoices
+- Performs Excel-based data processing and calculations (e.g., processing fee, total amount)
+- Updates the work item status in the system
+- Sends a summary report with attachments via email
+
+## 📂 Outputs
+- Final Excel report
+- Zipped PDF folder of invoices
+
+## 🔧 Application Used
+- UiPath
+- Chrome
+- Excel
+- Email (SMTP)
+
+## 📸 Screenshots
+![Workflow Diagram](assets/workflow-diagram.png)
+
+## 🎥 Demo Video
+Here are two demo runs showcasing the UiPath RPA automation:
+
+### 🔹 First Run – Full Automation Flow
+▶️ [Click to watch](assets/First%20Run.mp4)  
+Covers the complete workflow:
+- Login to ACME System 1
+- Work item extraction (WI3)
+- Invoice data scraping & PDF downloads
+- Excel processing & email report
+
+---
+
+### 🔹 Second Run – No Work Items Remaining
+▶️ [Click to watch](assets/Second%20Run.mp4)  
+Demonstrates behavior when all WI3 work items have already been processed:
+- System login
+- No items found message handled gracefully
+- Email summary not sent, but process exits cleanly with logs
+
+## 📄 Documentation
