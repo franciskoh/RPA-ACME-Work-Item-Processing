@@ -43,4 +43,10 @@ Demonstrates behavior when all WI3 work items have already been processed:
 - No items found message handled gracefully
 - Email summary sent notifying that there is no item to be process, but process exits cleanly with logs
 
+### 🔹 Exception Handling (Wrong Login Credentials)  
+▶️ [Click to watch](https://drive.google.com/file/d/1902-dymkN9ylPUXtakxWIP21lYlxEa2R/view?usp=sharing)  
+Simulates invalid login attempt:
+- Logs error to file  
+- Captures a screenshot of the failure
+
 ## 📄 Documentation
