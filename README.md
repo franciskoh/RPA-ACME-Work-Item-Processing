@@ -50,3 +50,6 @@ Simulates invalid login attempt:
 - Captures a screenshot of the failure
 
 ## 📄 Documentation
+You can download the **Design Document for ACME TEST Application RPA Automation** using the link below:
+
+[Download the Design Document](assets/Design%20Document%20for%20ACME%20TEST%20Application%20RPA%20Automation.docx)
