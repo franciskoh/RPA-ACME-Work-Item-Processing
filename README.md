@@ -27,7 +27,7 @@ This project showcases an end-to-end Robotic Process Automation (RPA) solution b
 Here are two demo runs showcasing the UiPath RPA automation:
 
 ### 🔹 First Run – Full Automation Flow
-▶️ [Click to watch](assets/First%20Run.mp4)  
+▶️ [Click to watch](https://drive.google.com/file/d/124knB9pgtjf2HfIjY8cQ8u-BmldFlg_n/view?usp=sharing)  
 Covers the complete workflow:
 - Login to ACME System 1
 - Work item extraction (WI3)
@@ -37,7 +37,7 @@ Covers the complete workflow:
 ---
 
 ### 🔹 Second Run – No Work Items Remaining
-▶️ [Click to watch](assets/Second%20Run.mp4)  
+▶️ [Click to watch](https://drive.google.com/file/d/1i1ele23AVdpDA1mL333p20uD0uqNCiDu/view?usp=sharing)  
 Demonstrates behavior when all WI3 work items have already been processed:
 - System login
 - No items found message handled gracefully
